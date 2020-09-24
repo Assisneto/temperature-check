@@ -1,6 +1,6 @@
 # App
 
-**TODO: Add description**
+A small application that searches in an api in a parallel way for information about the temperature of a city.
 
 ## Installation
 
